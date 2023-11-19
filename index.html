@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="login.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Login </title>
+</head>
+
+<body>
+
+    <div id="login-container" class="form-container">
+        
+        <form id="login-form " class="centered-element">
+            <h2>Login</h2>
+            <div class="input">
+                <label for="login-username">Username:</label>
+                <input class="my-3" type="text" id="login-username" required>
+            </div>
+            <div class="input">
+                <label for="login-password">Password:</label>
+                <input class="my-3" type="password" id="login-password" required>
+            </div>
+
+            <button type="button" onclick="login()">Login</button>
+        </form>
+    </div>
+
+    <div class="overlay-container">
+        <div class="overlay"></div>
+        <img src="green.jpg" alt="Background Image">
+        <div class="overlay-text">
+            <h2>Contact Us</h2>
+            <p class="my-3">In case you want to create an account, please feel free to contact us.
+            we take pride in our role as a leading company dedicated to the art of creating compelling and informative articles.</p>
+            <p>Our team of skilled writers is passionate about transforming ideas into engaging narratives tailored to meet your unique needs. Whether you're an individual looking to share your thoughts, a business aiming to enhance your online presence, or an organization seeking effective communication, We are here to bring your vision to life through the power of words.</p>     
+        </div>
+    </div>
+
+</body>
+
+</html>

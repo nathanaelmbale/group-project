@@ -1,0 +1,72 @@
+[
+    {
+        "title": "These beauty",
+        "summary": "A captivating story about the beauty of nature and life.",
+        "image": "business1.jpg",
+        "page": "article1.html",
+        "category": "business"
+    },
+    {
+        "title": "The Winning Team",
+        "summary": "Discover the journey of a successful sports team and their victories.",
+        "image": "sports1.jpg",
+        "page": "article2.html",
+        "category": "sports"
+    },
+    {
+        "title": "In the Pages of Books",
+        "summary": "Explore the magical world within the pages of books and literature.",
+        "image": "books1.jpg",
+        "page": "article3.html",
+        "category": "books"
+    },
+    {
+        "title": "Business Strategies Unveiled",
+        "summary": "Insights into effective business strategies and success stories.",
+        "image": "business2.jpg",
+        "page": "article4.html",
+        "category": "business"
+    },
+    {
+        "title": "Champion Spirit",
+        "summary": "Witness the determination and spirit of champions in the sports arena.",
+        "image": "sports2.jpg",
+        "page": "article5.html",
+        "category": "sports"
+    },
+    {
+        "title": "Literary Masterpieces",
+        "summary": "Dive into the world of literary masterpieces that leave a lasting impact.",
+        "image": "books2.jpg",
+        "page": "article6.html",
+        "category": "books"
+    },
+    {
+        "title": "Global Business Insights",
+        "summary": "Gain valuable insights into the global business landscape and trends.",
+        "image": "business3.jpg",
+        "page": "article7.html",
+        "category": "business"
+    },
+    {
+        "title": "Thrilling Sports Moments",
+        "summary": "Relive the most thrilling moments in the world of sports and athleticism.",
+        "image": "sports3.jpg",
+        "page": "article8.html",
+        "category": "sports"
+    },
+    {
+        "title": "Classic Book Treasures",
+        "summary": "Explore the timeless treasures found in classic literature and books.",
+        "image": "books3.jpg",
+        "page": "article9.html",
+        "category": "books"
+    },
+    {
+        "title": "Business Innovation Chronicles",
+        "summary": "Chronicles of business innovation and groundbreaking ideas.",
+        "image": "business4.jpg",
+        "page": "article10.html",
+        "category": "business"
+    }
+]

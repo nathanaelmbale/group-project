@@ -1,0 +1,89 @@
+/* Navbar*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    z-index: 1000;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px; 
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.logo img {
+    max-height: 40px; /* Adjust the max-height for the logo */
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+li {
+    margin: 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #333; /* Link color */
+    font-weight: bold;
+    font-size: 16px; /* Link font size */
+}
+
+a:hover {
+    color: #007BFF; /* Link color on hover */
+}
+
+.space {
+    margin: 50px;
+}
+
+#about-us {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    height: 60vh;
+    margin: 0;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: fit-content;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+

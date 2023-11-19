@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="setting.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="settings.js"></script>
+    <title>Home</title>
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <!--<img src="your-logo.png" alt="Logo"> -->
+                <p>LOGO</p>
+            </div>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="explore.html">Explore</a></li>
+                <li><a href="#">Settings</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <div class="font-controls">
+        <div class="input-like">
+            <p>The quick brown fox jumps over the lazy dog</p>
+        </div>
+
+        <h3>Increase Font</h3>
+        <button onclick="changeFontSize('increase')">Increase Font</button>
+        <button onclick="changeFontSize('decrease')">Decrease Font</button>
+        <span id="currentFontSize">Current Font Size: 16px</span>
+        <br>
+        <h3>Change Font</h3>
+        <button onclick="changeFontFamily('Times New Roman')">Times New Roman</button>
+        <button onclick="changeFontFamily('Arial')">Arial</button>
+        <span id="currentFontFamily">Current Font Family: Arial</span>
+    </div>
+
+
+
+    </div>
+
+</body>
+
+</html>
