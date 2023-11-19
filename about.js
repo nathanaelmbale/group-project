@@ -14,3 +14,7 @@ $(document).ready(function () {
         }
     });
 });
+
+function navigateToExplore() {
+    window.location.href = 'explore.html';
+}
