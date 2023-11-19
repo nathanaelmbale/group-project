@@ -1,14 +1,42 @@
 [
-    {
-      "username": "1234",
-      "password": "1234"
-    },
-    {
-      "username": "mbale",
-      "password": "12345"
-    },
-    {
-      "username": "solange",
-      "password": "solange"
-    }
-  ]
+  {
+    "username": "john",
+    "password": "john123"
+  },
+  {
+    "username": "emma",
+    "password": "emma456"
+  },
+  {
+    "username": "mike",
+    "password": "mike789"
+  },
+  {
+    "username": "sarah",
+    "password": "sarah987"
+  },
+  {
+    "username": "david",
+    "password": "david654"
+  },
+  {
+    "username": "linda",
+    "password": "linda321"
+  },
+  {
+    "username": "mark",
+    "password": "mark222"
+  },
+  {
+    "username": "natalie",
+    "password": "natalie111"
+  },
+  {
+    "username": "peter",
+    "password": "peter333"
+  },
+  {
+    "username": "olivia_turner",
+    "password": "olivia444"
+  }
+]
