@@ -54,9 +54,11 @@ function displayArticles(articles) {
         var image = $('<img src="' + article.image + '">');
         var body = $('<div class="body"><h3>' + article.title + '</h3><p>' + article.summary + '</p></div>');
 
-        // Add click event to navigate to the article page
+        // Add click event to navigate to the article page with query parameter
         card.on('click', function () {
-            window.location.href = article.page;
+            // Construct the URL with the article.page value as a query parameter
+            var url = 'blog.html?page=' + encodeURIComponent(article.page);
+            window.location.href = url;
         });
 
         card.append(image);
@@ -76,7 +78,6 @@ function displayArticles(articles) {
         articleContainer.append(card);
     });
 }
-
 
 
 var asyncRequest;

@@ -1,0 +1,282 @@
+[
+    {
+        "title": "These beauty",
+        "summary": "A captivating story about the beauty of nature and life.",
+        "image": "img/business1.jpg",
+        "page": "article1.html",
+        "category": "business",
+        "subheading": "A captivating story about the beauty of nature and life.",
+        "paragraphs": [
+            "Explore the wonders of nature and the beauty that surrounds us.",
+            "Discover the enchanting landscapes and breathtaking scenes that inspire awe.",
+            "Immerse yourself in the tranquility of natural beauty and find joy in the simplicity of life."
+        ],
+        "heading": "The Beauty of Nature",
+        "comments": [
+            {
+                "name": "john_doe",
+                "description": "Beautiful article!"
+            },
+            {
+                "name": "emma_smith",
+                "description": "I enjoyed reading this."
+            },
+            {
+                "name": "mike_jones",
+                "description": "Nature is truly amazing."
+            }
+        ]
+    },
+    {
+        "title": "The Winning Team",
+        "summary": "Discover the journey of a successful sports team and their victories.",
+        "image": "img/sports1.jpg",
+        "page": "article2.html",
+        "category": "sports",
+        "subheading": "Discover the journey of a successful sports team and their victories.",
+        "paragraphs": [
+            "Experience the thrill of victory and the dedication of athletes in their pursuit of excellence.",
+            "Celebrate the moments of triumph and the teamwork that leads to success in the sports arena.",
+            "art Witness the commitment and passion that make champions stand out in the world of sports."
+        ],
+        "heading": "The Winning Team",
+        "comments": [
+            {
+                "name": "sports_fan",
+                "description": "Fantastic sports journey!"
+            },
+            {
+                "name": "jane_doe",
+                "description": "I'm inspired by this team."
+            },
+            {
+                "name": "peter_jones",
+                "description": "Great achievements!"
+            }
+        ]
+    },
+    {
+        "title": "In the Pages of Books",
+        "summary": "Explore the magical world within the pages of books and literature.",
+        "image": "img/books1.jpg",
+        "page": "article3.html",
+        "category": "books",
+        "subheading": "Explore the magical world within the pages of books and literature.",
+        "paragraphs": [
+            "Journey through the realms of imagination and knowledge found in the pages of books.",
+            "Discover the power of storytelling and the influence of literature on our thoughts and perspectives.",
+            "Embark on an adventure through words and let the magic of books transport you to different worlds."
+        ],
+        "heading": "Literary Wonderland",
+        "comments": [
+            {
+                "name": "book_lover",
+                "description": "The literary world is amazing!"
+            },
+            {
+                "name": "reading_enthusiast",
+                "description": "I want to read more books now."
+            },
+            {
+                "name": "storyteller",
+                "description": "Captivating literary journey!"
+            }
+        ]
+    },
+    {
+        "title": "Business Strategies Unveiled",
+        "summary": "Insights into effective business strategies and success stories.",
+        "image": "img/business2.jpg",
+        "page": "article4.html",
+        "category": "business",
+        "subheading": "Insights into effective business strategies and success stories.",
+        "paragraphs": [
+            "Uncover the secrets of successful businesses and the strategies that drive their growth.",
+            "Explore the innovative approaches and key insights that shape the landscape of successful businesses.",
+            "Learn from the achievements and challenges faced by business leaders in their strategic endeavors."
+        ],
+        "heading": "Strategic Excellence",
+        "comments": [
+            {
+                "name": "business_enthusiast",
+                "description": "Great insights into business."
+            },
+            {
+                "name": "strategy_expert",
+                "description": "Valuable strategies shared."
+            },
+            {
+                "name": "success_seeker",
+                "description": "Motivated to implement these strategies!"
+            }
+        ]
+    },
+    {
+        "title": "Champion Spirit",
+        "summary": "Witness the determination and spirit of champions in the sports arena.",
+        "image": "img/sports2.jpg",
+        "page": "article5.html",
+        "category": "sports",
+        "subheading": "Witness the determination and spirit of champions in the sports arena.",
+        "paragraphs": [
+            "Experience the passion and resilience that define the spirit of true champions in sports.",
+            "Celebrate the dedication and hard work that elevate athletes to the status of champions in their respective fields.",
+            "Discover the stories of athletes who embody the champion spirit and inspire others through their achievements."
+        ],
+        "heading": "Heart of a Champion",
+        "comments": [
+            {
+                "name": "sports_enthusiast",
+                "description": "Amazing sportsmanship."
+            },
+            {
+                "name": "fitness_lover",
+                "description": "Inspired to achieve fitness goals."
+            },
+            {
+                "name": "champion_watcher",
+                "description": "These moments are truly thrilling!"
+            }
+        ]
+    },
+    {
+        "title": "Literary Masterpieces",
+        "summary": "Dive into the world of literary masterpieces that leave a lasting impact.",
+        "image": "img/books2.jpg",
+        "page": "article6.html",
+        "category": "books",
+        "subheading": "Dive into the world of literary masterpieces that leave a lasting impact.",
+        "paragraphs": [
+            "Explore the timeless and influential works that have shaped the world of literature.",
+            "Appreciate the beauty of literary craftsmanship and the enduring impact of classic masterpieces.",
+            "Immerse yourself in the profound stories and deep insights found in the pages of timeless literature."
+        ],
+        "heading": "Classic Literature",
+        "comments": [
+            {
+                "name": "literature_lover",
+                "description": "Classic literature at its best!"
+            },
+            {
+                "name": "reader_for_life",
+                "description": "Incredible literary journey."
+            },
+            {
+                "name": "bookworm",
+                "description": "These masterpieces are timeless!"
+            }
+        ]
+    },
+    {
+        "title": "Global Business Insights",
+        "summary": "Gain valuable insights into the global business landscape and trends.",
+        "image": "img/business3.jpg",
+        "page": "article7.html",
+        "category": "business",
+        "subheading": "Gain valuable insights into the global business landscape and trends.",
+        "paragraphs": [
+            "Stay informed about the latest trends and developments shaping the global business environment.",
+            "Explore the challenges and opportunities that businesses face on the international stage.",
+            "Learn from the experiences of global enterprises and the strategies they employ to navigate a dynamic business landscape."
+        ],
+        "heading": "Business on the World Stage",
+        "comments": [
+            {
+                "name": "global_business_reader",
+                "description": "Insights into global business are crucial."
+            },
+            {
+                "name": "strategy_seeker",
+                "description": "Learning from global business trends."
+            },
+            {
+                "name": "business_observer",
+                "description": "Fascinating observations in global business."
+            }
+        ]
+    },
+    {
+        "title": "Thrilling Sports Moments",
+        "summary": "Relive the most thrilling moments in the world of sports and athleticism.",
+        "image": "img/sports3.jpg",
+        "page": "article8.html",
+        "category": "sports",
+        "subheading": "Relive the most thrilling moments in the world of sports and athleticism.",
+        "paragraphs": [
+            "Experience the excitement and adrenaline of unforgettable moments in sports history.",
+            "Witness the drama and intensity of key moments that define the legacy of sports events and competitions.",
+            "Celebrate the athletes and teams that have left an indelible mark on the history of sports through their thrilling performances."
+        ],
+        "heading": "Unforgettable Highlights",
+        "comments": [
+            {
+                "name": "sports_fanatic",
+                "description": "Thrilling moments indeed!"
+            },
+            {
+                "name": "athletics_lover",
+                "description": "These moments are unforgettable."
+            },
+            {
+                "name": "game_watcher",
+                "description": "Sports at its finest!"
+            }
+        ]
+    },
+    {
+        "title": "Classic Book Treasures",
+        "summary": "Explore the timeless treasures found in classic literature and books.",
+        "image": "img/books3.jpg",
+        "page": "article9.html",
+        "category": "books",
+        "subheading": "Explore the timeless treasures found in classic literature and books.",
+        "paragraphs": [
+            "Discover the enduring value and cultural significance of classic books from different genres.",
+            "Appreciate the richness of classic literature and its impact on culture, society, and intellectual discourse.",
+            "Embark on a journey through the pages of literary classics that have stood the test of time and continue to captivate readers."
+        ],
+        "heading": "Cultural Heritage",
+        "comments": [
+            {
+                "name": "classic_literature_fan",
+                "description": "Treasures of classic literature."
+            },
+            {
+                "name": "timeless_books_reader",
+                "description": "These books are truly timeless."
+            },
+            {
+                "name": "book_collector",
+                "description": "Adding these classics to my collection!"
+            }
+        ]
+    },
+    {
+        "title": "Business Innovation Chronicles",
+        "summary": "Chronicles of business innovation and groundbreaking ideas.",
+        "image": "img/business4.jpg",
+        "page": "article10.html",
+        "category": "business",
+        "subheading": "Insights into effective strategies for achieving sustainable business growth.",
+        "paragraphs": [
+            "Explore proven strategies and best practices that contribute to the long-term success and growth of businesses.",
+            "Sustainable Business Growth",
+            "Understand the key elements and principles that drive sustainable growth in a competitive business environment."
+        ],
+        "heading": "Learn from the success stories and lessons of businesses that have achieved substantial growth through strategic planning and execution.",
+        "comments": [
+            {
+                "name": "innovation_enthusiast",
+                "description": "Innovation at its best."
+            },
+            {
+                "name": "business_innovator",
+                "description": "Inspired by these innovative stories."
+            },
+            {
+                "name": "groundbreaking_ideas_seeker",
+                "description": "Seeking groundbreaking ideas for my business!"
+            }
+        ]
+    }
+]

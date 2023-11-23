@@ -3,7 +3,7 @@
         "title": "These beauty",
         "summary": "A captivating story about the beauty of nature and life.",
         "image": "business1.jpg",
-        "page": "article1.html",
+        "page": "1",
         "category": "business",
         "comments": [
             {"name": "john_doe", "description": "Beautiful article!"},
@@ -15,7 +15,7 @@
         "title": "The Winning Team",
         "summary": "Discover the journey of a successful sports team and their victories.",
         "image": "sports1.jpg",
-        "page": "article2.html",
+        "page": "2",
         "category": "sports",
         "comments": [
             {"name": "sports_fan", "description": "Fantastic sports journey!"},
@@ -27,7 +27,7 @@
         "title": "In the Pages of Books",
         "summary": "Explore the magical world within the pages of books and literature.",
         "image": "books1.jpg",
-        "page": "article3.html",
+        "page": "3",
         "category": "books",
         "comments": [
             {"name": "book_lover", "description": "The literary world is amazing!"},
@@ -39,7 +39,7 @@
         "title": "Business Strategies Unveiled",
         "summary": "Insights into effective business strategies and success stories.",
         "image": "business2.jpg",
-        "page": "article4.html",
+        "page": "4",
         "category": "business",
         "comments": [
             {"name": "business_enthusiast", "description": "Great insights into business."},
@@ -51,7 +51,7 @@
         "title": "Champion Spirit",
         "summary": "Witness the determination and spirit of champions in the sports arena.",
         "image": "sports2.jpg",
-        "page": "article5.html",
+        "page": "5",
         "category": "sports",
         "comments": [
             {"name": "sports_enthusiast", "description": "Amazing sportsmanship."},
@@ -63,7 +63,7 @@
         "title": "Literary Masterpieces",
         "summary": "Dive into the world of literary masterpieces that leave a lasting impact.",
         "image": "books2.jpg",
-        "page": "article6.html",
+        "page": "6",
         "category": "books",
         "comments": [
             {"name": "literature_lover", "description": "Classic literature at its best!"},
@@ -75,7 +75,7 @@
         "title": "Global Business Insights",
         "summary": "Gain valuable insights into the global business landscape and trends.",
         "image": "business3.jpg",
-        "page": "article7.html",
+        "page": "7",
         "category": "business",
         "comments": [
             {"name": "global_business_reader", "description": "Insights into global business are crucial."},
@@ -87,7 +87,7 @@
         "title": "Thrilling Sports Moments",
         "summary": "Relive the most thrilling moments in the world of sports and athleticism.",
         "image": "sports3.jpg",
-        "page": "article8.html",
+        "page": "8",
         "category": "sports",
         "comments": [
             {"name": "sports_fanatic", "description": "Thrilling moments indeed!"},
@@ -99,7 +99,7 @@
         "title": "Classic Book Treasures",
         "summary": "Explore the timeless treasures found in classic literature and books.",
         "image": "books3.jpg",
-        "page": "article9.html",
+        "page": "9",
         "category": "books",
         "comments": [
             {"name": "classic_literature_fan", "description": "Treasures of classic literature."},
@@ -111,7 +111,7 @@
         "title": "Business Innovation Chronicles",
         "summary": "Chronicles of business innovation and groundbreaking ideas.",
         "image": "business4.jpg",
-        "page": "article10.html",
+        "page": "10",
         "category": "business",
         "comments": [
             {"name": "innovation_enthusiast", "description": "Innovation at its best."},
