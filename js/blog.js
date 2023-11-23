@@ -3,7 +3,7 @@ var articleNumber = 1; // Start with article number 1
 // Function to load JSON data using Ajax (jQuery)
 function loadJSON(callback) {
     $.ajax({
-        url: 'article.json',
+        url: 'json/article.json',
         dataType: 'json',
         success: function (data) {
             callback(data);

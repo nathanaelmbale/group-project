@@ -3,7 +3,7 @@ $(document).ready(function () {
     // Load XML description
     $.ajax({
         type: "GET",
-        url: "about-description.xml", // Change to the correct path
+        url: "xml/about-description.xml", // Change to the correct path
         dataType: "xml",
         success: function (xml) {
             var description = $(xml).find("description").text();
