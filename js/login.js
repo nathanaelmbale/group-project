@@ -1,7 +1,7 @@
 // Function to load JSON data using Ajax (jQuery)
 function loadJSON(callback) {
     $.ajax({
-        url: 'users.json',
+        url: 'json/users.json',
         dataType: 'json',
         success: function (data) {
             callback(data);
