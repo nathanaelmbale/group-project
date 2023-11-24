@@ -1,4 +1,5 @@
-var articleNumber = 1; // Start with article number 1
+var articleNumber = parseInt(localStorage.getItem('selectedArticlePage')) || 1;
+console.log(articleNumber)
 
 // Function to load JSON data using Ajax (jQuery)
 function loadJSON(callback) {
