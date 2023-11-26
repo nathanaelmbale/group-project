@@ -57,15 +57,17 @@ a:hover {
 #about-us {
     font-family: Arial, sans-serif;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: start;
     justify-content: center;
     height: 60vh;
     margin: 0;
     margin-right: 40px;
     margin-left: 40px;
-
+    color: #444444;
 }
+
+
 
 button {
     background-color: #4CAF50;
@@ -87,3 +89,31 @@ button:hover {
     background-color: #45a049;
 }
 
+.names p{
+    font-size: x-large;
+    font-weight: 600;
+    color: #007506;
+}
+
+.names ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    color: rgb(39, 39, 39);
+    padding-bottom: 20px;
+}
+
+.names li {
+    list-style: circle;
+}
+
+.container{
+    width: 50%;
+}
+
+.img img{
+    height: 65vh;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 20px;
+}
