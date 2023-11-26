@@ -37,7 +37,7 @@ function filterByCategory(articles, category) {
             return article.category.toLowerCase() === category.toLowerCase();
         });
     }
-}
+} 
 
 function displayArticles(articles) {
     // Update this function to display the filtered articles as needed
