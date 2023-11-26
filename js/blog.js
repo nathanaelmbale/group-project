@@ -1,4 +1,4 @@
-var articleNumber = parseInt(localStorage.getItem('selectedArticlePage')) || 1;
+var articleNumber = parseInt(localStorage.getItem('selectedArticlePage'))- 1 || 1;
 console.log(articleNumber)
 
 // Function to load JSON data using Ajax (jQuery)
