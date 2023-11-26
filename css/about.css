@@ -54,6 +54,7 @@ a:hover {
     margin: 50px;
 }
 
+
 #about-us {
     font-family: Arial, sans-serif;
     display: flex;
@@ -66,7 +67,6 @@ a:hover {
     margin-left: 40px;
     color: #444444;
 }
-
 
 
 button {
@@ -108,7 +108,11 @@ button:hover {
 }
 
 .container{
+    margin-top: 90px;
     width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 .img img{
@@ -116,4 +120,51 @@ button:hover {
     margin-right: 25px;
     margin-left: 25px;
     border-radius: 20px;
+}
+
+#our-team{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 5px ;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.card img {
+    width: 380px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 1px;
+    border-radius: 20px;
+}
+
+.card .body {
+    text-align: center;
+    flex-grow: 1;
+}
+
+.body p{
+    color: #444444;
+}
+
+/* Navbar*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    margin: auto;
+    width: 100%;
 }
