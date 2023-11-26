@@ -1,4 +1,6 @@
-var articleNumber = parseInt(localStorage.getItem('selectedArticlePage'))- 1 || 1;
+var storedNumber = parseInt(localStorage.getItem('selectedArticlePage')) || 1;
+var articleNumber = storedNumber - 1;
+
 console.log(articleNumber)
 
 // Function to load JSON data using Ajax (jQuery)
@@ -54,7 +56,7 @@ function displayArticleAndComments(jsonData) {
     }
 
     // Update the article number in the span
-    $('#number').text(articleNumber);
+    $('#number').text(articleNumber + 1);
 }
 
 // Function to change the article number based on the button clicked
@@ -62,7 +64,7 @@ function changeArticle(inc) {
     articleNumber += inc;
 
     // Ensure the articleNumber stays within the bounds of 0 to 9
-    articleNumber = Math.min(9, Math.max(0, articleNumber));
+    articleNumber = Math.min(10, Math.max(1, articleNumber));
 
     // Reload the JSON article and comments for the new articleNumber
     loadJSON(displayArticleAndComments);
